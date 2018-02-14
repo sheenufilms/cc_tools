@@ -2,31 +2,40 @@
   "Games":
           [
             {
-              "Title": "Chips Challenge",
-              "Year": 1989,
               "Platform":
-                          {
+
+                           {
                             "Launch Year": 1989,
                             "Name": "Atari Lynx"
-                          }
+                          },
+
+              "Title": "Chips Challenge",
+              "Year": 1989
             },
+
+
             {
-              "Title": "Chips Challenge 2",
-              "Year": 2015,
               "Platform":
+
                           {
                             "Launch Year": 2003,
                             "Name": "Steam"
-                          }
+                          },
+
+              "Title": "Chips Challenge 2",
+              "Year": 2015
             },
+
+
             {
-              "Title": "Chips Challenge 3",
-              "Year": 2018,
               "Platform":
-                          {
-                            "Launch Year": 2006,
-                            "Name": "Google Spreadsheet"
-                          }
+                {
+                  "Launch Year": 2006,
+                  "Name": "Google Spreadsheet"
+                },
+
+              "Title": "Chips Challenge 3",
+              "Year": 2018
             }
           ]
 }
